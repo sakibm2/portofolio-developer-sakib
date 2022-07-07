@@ -99,3 +99,70 @@ li {
     background-color: rgba(187, 187, 187, 0.237);
     border-radius: 5px;
 }
+
+#select-item {
+    border: 2px solid rgba(0, 97, 241, 0.664);
+    background-color: rgba(47, 157, 247, 0.377);
+}
+
+#inputNumber {
+
+    width: 850px;
+    ;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 28%;
+    font-size: 20px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+
+}
+
+#btn-donate2 {
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px 40px;
+    background-image: linear-gradient(#81c5f1, #3055cc);
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 44%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.third-part-big-text {
+
+    margin-top: 200px;
+    font-size: 60px;
+    color: rgb(36, 36, 36);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 40px;
+
+}
+
+.third-part-details-text {
+    font-size: 25px;
+    color: #424242cc;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+
+.seound-box-item {
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    display: flex;
+    list-style: none;
+}
