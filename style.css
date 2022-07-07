@@ -55,3 +55,47 @@ body {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+}
+
+.seound-part-big-text {
+    font-size: 60px;
+    color: rgb(36, 36, 36);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.seound-part-details-text {
+    font-size: 20px;
+    color: rgb(37, 37, 37);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+
+.box-item {
+    text-align: center;
+    margin-left: 25%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+
+}
+
+li {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    padding: 50px;
+    margin: 0 15px;
+    background-color: rgba(187, 187, 187, 0.237);
+    border-radius: 5px;
+}
