@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@300;400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&family=Roboto:wght@300;400;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    margin: 0;
+}
+
+.header {
+    background-image: linear-gradient(to bottom, rgba(175, 129, 2, 0.452), rgba(0, 0, 0, 0.89)), url(images/header-image.png);
+    background-repeat: no-repeat;
+    width: 1900px;
+    height: 1000px;
+}
+
+.header-big-text {
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.header-details-text {
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+}
+
+#btn-donate {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 40px;
+    background-image: linear-gradient(#81c5f1, #3055cc);
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+    margin: 0;
+    position: absolute;
+    top: 700px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
